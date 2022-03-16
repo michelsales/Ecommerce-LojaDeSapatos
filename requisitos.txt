@@ -1,0 +1,18 @@
+listar produtos 
+
+adicionar produto ao carrinho 
+
+quantidade de produtos no carrinho (pag princ)
+
+abrir carrinho e listar produtos no carrinho 
+
+ adicionar produtos no carrinho 
+ -somar valor 
+ remover produtos no carrinho
+ -subtrair valor 
+ se não tiver a quantidade de produtos no estoque não deixar adicionar 
+
+ 
+
+salvar carrinho na localStorage 
+mostrar erros com toastify 
