@@ -1,3 +1,3 @@
-npm i - para instalar as dependencias <br>
-rodar api fake: json-server --watch server.json  <br>
-Rodar projeto: npm start; <br>
+install the dependencies: npm i :  <br>
+run fake api: json-server --watch server.json  <br>
+run project: npm start; <br>
